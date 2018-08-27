@@ -55,7 +55,7 @@
 
 ### Robin Lovelace: “Integrating spatial data in dplyr workflows: pitfalls and potential”
 
-- [slides](https://geocompr.github.io/presentations/geostat18-geocomputation.html)
+- [slides](https://geocompr.github.io/presentations/spatial-tidyverse.html#1)
 
 ### Jannes Münchow: “R-GIS bridges: the examples of RQGIS and RSAGA”
 
