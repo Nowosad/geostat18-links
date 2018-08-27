@@ -73,7 +73,7 @@
 
 ### Veronica Andreo: "Spatiotemporal data processing and visualization in GRASS GIS"
 
-- [slides](https://gitpitch.com/veroandreo/grass-gis-geostat-2018/master?grs=gitlab#/)
+- [slides](https://gitpitch.com/veroandreo/grass-gis-geostat-2018/master?p=tgrass&grs=gitlab#/)
 - [repo](https://gitlab.com/veroandreo/grass-gis-geostat-2018)
 
 ### Tomislav Hengl: “Computing with large rasters in R: tiling, parallelization, optimization”
