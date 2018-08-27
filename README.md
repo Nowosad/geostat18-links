@@ -69,6 +69,8 @@
 
 ### Markus Neteler: “Analysing environmental data with GRASS GIS” (practicals)
 
+- [website](http://neteler.gitlab.io/grass-gis-analysis/)
+
 ### Veronica Andreo: "Spatiotemporal data processing and visualization in GRASS GIS"
 
 - [slides](https://gitpitch.com/veroandreo/grass-gis-geostat-2018/master?grs=gitlab#/)
