@@ -4,7 +4,7 @@
 
 ### Roger Bivand: “A practical history of R-sig-geo”
 
-- [repo]()
+- [repo](https://github.com/rsbivand/geostat18/)
 
 ### Edzer Pebesma: "New R packages for spatial and spatiotemporal vector and raster data"
 
@@ -71,6 +71,7 @@
 
 ### Veronica Andreo: "Spatiotemporal data processing and visualization in GRASS GIS"
 
+- [slides](https://gitpitch.com/veroandreo/grass-gis-geostat-2018/master?grs=gitlab#/)
 - [repo](https://gitlab.com/veroandreo/grass-gis-geostat-2018)
 
 ### Tomislav Hengl: “Computing with large rasters in R: tiling, parallelization, optimization”
@@ -80,6 +81,7 @@
 
 ### Edzer Pebesma: “Scalable raster data analysis in the cloud with R”
 
+- [notes](https://edzer.github.io/prague/eo.html)
 
 ## Friday
 
@@ -90,7 +92,13 @@
 
 ### Chris Reudenbach: "Link2GI - consistent linking of Open Source GIS with R"
 
+- [repo](https://github.com/gisma/link2gi2018)
+
+### Roger Bivand: "Process scale and autocorrelation"
+
+- [repo](https://github.com/rsbivand/geostat18/)
 
 ## Additional links
 
-
+- [The blockCV package creates spatially or environmentally separated training and testing folds for cross-validation to provide a robust error estimation in spatially structured environments](https://github.com/rvalavi/blockCV)
+- [A nice toolbox based on R and GRASS GIS for mapping and modeling invasive species through remote sensing (LiDAR and Hyperspectral)](http://diarsproject.github.io/DIARS/HomeDIARS.html)
