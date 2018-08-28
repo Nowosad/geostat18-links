@@ -25,6 +25,8 @@
 ### Tom Hengl: "Machine Learning as a generic framework for spatial prediction"
 
 - [slides](https://docs.google.com/presentation/d/e/2PACX-1vTHamwG8CDsqTQ5ump79Tl0X_JO1DS0pYHe7JUVVKutpAdj9kIjl5z-bocWgadNzTqybdCfROHHvd2t/pub?start=false&loop=false&delayms=3000)
+- [tutorial](https://github.com/thengl/GeoMLA)
+- [article](https://peerj.com/preprints/26693/)
 
 ## Tuesday
 
@@ -89,7 +91,7 @@
 
 ### Tomislav Hengl: "Mapping species distribution using Machine Learning"
 
-- [slides](https://docs.google.com/presentation/d/190KXqGWM1V1qDQ9KCnvjFqQwhbx3RLISY5XhJuEX5Z8/edit?usp=sharing)
+- [article](https://peerj.com/articles/5457/)
 - [tutorial](https://github.com/Envirometrix/PNVmaps/tree/master/tutorial)
 
 ### Chris Reudenbach: "Link2GI - consistent linking of Open Source GIS with R"
@@ -104,3 +106,4 @@
 
 - [The blockCV package creates spatially or environmentally separated training and testing folds for cross-validation to provide a robust error estimation in spatially structured environments](https://github.com/rvalavi/blockCV)
 - [A nice toolbox based on R and GRASS GIS for mapping and modeling invasive species through remote sensing (LiDAR and Hyperspectral)](http://diarsproject.github.io/DIARS/HomeDIARS.html)
+- To handle large polygons and compute with larger stacks of rasters use: (a) [fasterize](https://cran.r-project.org/web/packages/fasterize/vignettes/using-fasterize.html), and (b) [tabularaster](https://www.rdocumentation.org/packages/tabularaster/versions/0.5.0).
