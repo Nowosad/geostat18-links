@@ -102,6 +102,21 @@
 
 - [repo](https://github.com/rsbivand/geostat18/)
 
+## Interviews
+
+- [Veronica Andreo](https://www.youtube.com/watch?v=xJATQqYQIlc)
+- [Roger Bivand](https://www.youtube.com/watch?v=rep__6A0D5M)
+- [Tim Appelhans](https://www.youtube.com/watch?v=J9Mbv-BUn4Y)
+- [Hanna Meyer](https://www.youtube.com/watch?v=Va7hl9G-aCo)
+- [Chris Reudenbach](https://www.youtube.com/watch?v=P4aEIIOjtdg)
+- [Robin Lovelace](https://www.youtube.com/watch?v=JIPffNXtgVc)
+- [Jakub Nowosad](https://www.youtube.com/watch?v=G7od5d3IyDQ)
+- [Jannes Muenchow](https://www.youtube.com/watch?v=dAZ1t1-eWOA)
+- [Marcus Neteler](https://www.youtube.com/watch?v=QVFIjrJaqKU)
+- [Matej Man](https://www.youtube.com/watch?v=eDSE4udXU3s)
+- [Tom Hengl](https://www.youtube.com/watch?v=65PZiHzNixc)
+- [Edzer Pebesma](https://www.youtube.com/watch?v=aRnCc1gUfIg)
+
 ## Additional links
 
 - [The blockCV package creates spatially or environmentally separated training and testing folds for cross-validation to provide a robust error estimation in spatially structured environments](https://github.com/rvalavi/blockCV)
